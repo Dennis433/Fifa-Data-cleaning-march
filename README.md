@@ -1,1 +1,1 @@
-# Fifa-Data-cleaning-march
+# This project focuses on performing Data Cleaning On a FIFA data over a specific period of time .This project provides a thorough understanding of the data, cleaning, and exploring relationships between variables.
